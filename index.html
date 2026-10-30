@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="sl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#153b35">
+    <meta name="description" content="Klikljiv prototip za prikaz poteka 6S presoje.">
+    <title>6S presoja — prototip</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="6S presoja, začetek">
+        <span class="brand-mark">6S</span>
+        <span class="brand-copy"><strong>Presoja proizvodnje</strong><small>Koncept aplikacije</small></span>
+      </a>
+      <div class="topbar-right">
+        <span class="demo-pill"><span class="status-dot"></span> DEMO</span>
+        <span class="save-status" id="saveStatus">Ni povezave z oblakom</span>
+      </div>
+    </header>
+
+    <main class="shell">
+      <div class="prototype-banner">
+        <span class="banner-icon" aria-hidden="true">ⓘ</span>
+        <p><strong>Prototip za prikaz ideje.</strong> Podatki se shranjujejo samo v tem brskalniku. Povezave z Microsoft 365, OneDrive ali e-pošto niso vključene.</p>
+      </div>
+
+      <section id="welcomeScreen" class="welcome-layout" aria-labelledby="welcomeTitle">
+        <div class="welcome-copy">
+          <div class="eyebrow">DIGITALNI OBHOD · 6S</div>
+          <h1 id="welcomeTitle">Urejenost, ki jo<br><span>vidimo v praksi.</span></h1>
+          <p>Preizkusi, kako bi lahko potekala 6S presoja na telefonu ali računalniku — od izbire območja do pregleda ugotovitev.</p>
+          <div class="welcome-highlights">
+            <div><span class="highlight-icon">✓</span><span>Vprašanja iz Excelove predloge</span></div>
+            <div><span class="highlight-icon">↻</span><span>Vračanje na katerokoli vprašanje</span></div>
+            <div><span class="highlight-icon">▧</span><span>Osnutek ostane v tem brskalniku</span></div>
+          </div>
+        </div>
+        <form id="startForm" class="panel start-panel">
+          <div class="panel-heading">
+            <div>
+              <div class="eyebrow">NOVA DEMONSTRACIJA</div>
+              <h2>Začni presojo</h2>
+            </div>
+            <span class="step-badge">01 <span>/ 03</span></span>
+          </div>
+          <label>Podjetje<input name="company" required value="Demo podjetje" autocomplete="organization"></label>
+          <div class="form-grid">
+            <label>OE<input name="oe" required value="OE-01"></label>
+            <label>TED<input name="ted" required value="TED-001"></label>
+          </div>
+          <label>Datum presoje<input name="date" type="date" required></label>
+          <label>Presojevalec<input name="auditor" required placeholder="Ime in priimek"></label>
+          <button class="button button-primary button-wide" type="submit">Začni demonstracijo <span aria-hidden="true">→</span></button>
+          <p class="form-footnote">Vrednosti so primeri za demonstracijo in jih lahko spremeniš.</p>
+          <div class="resume-box" id="resumeBox" hidden>
+            <span><strong>Najden je shranjen osnutek.</strong><br><span id="resumeText"></span></span>
+            <button type="button" class="button button-secondary" id="resumeButton">Nadaljuj</button>
+          </div>
+        </form>
+      </section>
+
+      <section id="auditScreen" class="audit-layout" aria-label="Vprašanja presoje" hidden>
+        <aside class="section-sidebar panel">
+          <div class="sidebar-title">
+            <span class="eyebrow">POTEK PRESOJE</span>
+            <button id="leaveButton" class="icon-button" type="button" aria-label="Nazaj na začetek" title="Nazaj na začetek">⌂</button>
+          </div>
+          <div class="sidebar-meta" id="auditMeta"></div>
+          <div class="progress-label"><span>Napredek</span><strong id="progressText">0 / 191</strong></div>
+          <div class="progress-track"><span id="progressBar"></span></div>
+          <nav id="sectionNav" class="section-nav" aria-label="Sklopi vprašanj"></nav>
+          <button class="button button-secondary button-wide sidebar-summary" id="summaryButton" type="button">Zaključek in povzetek <span aria-hidden="true">→</span></button>
+        </aside>
+
+        <div class="question-area">
+          <div class="question-toolbar">
+            <div class="breadcrumbs"><span id="sectionCrumb"></span><span aria-hidden="true">/</span><span id="categoryCrumb"></span></div>
+            <span id="questionCounter" class="question-counter"></span>
+          </div>
+          <article id="questionCard" class="panel question-card"></article>
+          <div class="question-navigation">
+            <button class="button button-secondary" id="previousButton" type="button"><span aria-hidden="true">←</span> Nazaj</button>
+            <span class="keyboard-hint">Odgovori se shranjujejo sproti</span>
+            <button class="button button-primary" id="nextButton" type="button">Naprej <span aria-hidden="true">→</span></button>
+          </div>
+        </div>
+      </section>
+
+      <section id="summaryScreen" class="summary-screen" aria-labelledby="summaryTitle" hidden>
+        <div class="summary-heading">
+          <div>
+            <div class="eyebrow">PREGLED DEMONSTRACIJE</div>
+            <h1 id="summaryTitle">Povzetek presoje</h1>
+            <p id="summaryMeta" class="muted"></p>
+          </div>
+          <span class="demo-pill"><span class="status-dot"></span> LOKALNI DEMO</span>
+        </div>
+        <div class="metric-grid" id="metricGrid"></div>
+        <div class="summary-columns">
+          <section class="panel summary-panel">
+            <div class="panel-heading"><div><div class="eyebrow">PO SKLOPIH</div><h2>Pregled rezultatov</h2></div></div>
+            <div id="sectionResults" class="section-results"></div>
+          </section>
+          <section class="panel summary-panel export-panel">
+            <div class="eyebrow">KAJ LAHKO PREIZKUSIŠ</div>
+            <h2>Izvoz in naslednji koraki</h2>
+            <p>Izvozi demonstracijski zapis ali uporabi tiskanje brskalnika za shranjevanje prikazanega povzetka kot PDF.</p>
+            <button class="button button-primary button-wide" id="exportButton" type="button">Prenesi demo zapis <span aria-hidden="true">↓</span></button>
+            <button class="button button-secondary button-wide" id="printButton" type="button">Natisni / shrani kot PDF</button>
+            <div class="not-connected">
+              <strong>V tem prototipu ni povezave za:</strong>
+              <span>Excel · OneDrive · e-pošto · dejansko sinhronizacijo</span>
+            </div>
+          </section>
+        </div>
+        <div class="summary-actions">
+          <button class="button button-secondary" id="backToAuditButton" type="button">← Nazaj na vprašanja</button>
+          <button class="button button-primary" id="newAuditButton" type="button">Nova demonstracija <span aria-hidden="true">↻</span></button>
+        </div>
+        <p class="demo-score-note">Odstotek skladnosti je samo poenostavljen prikaz odgovorov DA med odgovorjenimi vprašanji. Ne predstavlja preverjenega izračuna iz Excelove predloge.</p>
+      </section>
+    </main>
+    <footer class="page-footer"><span>6S · koncept uporabniške izkušnje</span><span>Prototip ne pošilja podatkov iz naprave.</span></footer>
+  </body>
+</html>

@@ -1,0 +1,1721 @@
+[
+    {
+        "id":  "doc-3",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali je tabla urejena po standardu (deklaracijska, funkcijska in glavna tabla oz. monitor)?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "doc-4",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali so dokumenti v mapah ustreznih barv?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-5",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali so mape in dokumentacija čiste in niso strgane?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-6",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali je na tabli matrika usposobljenosti zaposlenih?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-7",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali so mesečni in tedenski cilji/rezultati ažurirani?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-8",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali so vsi odkloni ažurirani?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-9",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali so vse aktivnosti ažurirane?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-10",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali je razpored dela dnevno ažuriran?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-11",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI TED (ODDELČNI TABLI)",
+        "question":  "Ali je inovativnost mesečno ažurirana?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-12",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA ZA EKOLOŠKO CONO",
+        "question":  "Ali so na ekološki coni navedeni kontaktni podatki o skrbniku za okolje?",
+        "factor":  0.005,
+        "scoreable":  true
+    },
+    {
+        "id":  "doc-13",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA ZA EKOLOŠKO CONO",
+        "question":  "Ali so mape in dokumentacija čiste in niso strgane?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-14",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA ZA EKOLOŠKO CONO",
+        "question":  "Ali so dokumenti urejeni na tabli, fasciklu in niso polepljeni po zidu?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-15",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI ZA SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "Ali je tabla urejena po standardu (deklaracijska, funkcijska in glavna tabla)?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "doc-16",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI ZA SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "Ali so mape in dokumentacija čiste in niso strgane?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-17",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI ZA SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "*Ali so na tabli slike viličarja s poudarjenimi mesti čiščenja?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-18",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI ZA SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "*Ali je na tabli objavljen standard samovzdrževanja viličarjev?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-19",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA NA TABLI ZA SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "*Ali so evidence samovzdrževanja viličarjev ustrezno vodene s podpisi?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-20",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA -  5S URICE",
+        "question":  "Ali je mesto za dokumentacijo označeno z napisom Samostojno vzdrževanje - 5S urice?",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "doc-21",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA -  5S URICE",
+        "question":  "Ali so mape in dokumentacija čiste in niso strgane?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-22",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA -  5S URICE",
+        "question":  "*Ali so na tabeli objavljeni shema, seznam in evidenca čiščenja?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-23",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA -  5S URICE",
+        "question":  "*Ali so evidence izvajanja čiščenja ustrezno vodene s podpisi?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-24",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "Ali so na delovnem mestu lično objavljeni dokumenti, ki so predpisani s strani podjetja za izdelavo izdelka.",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "doc-25",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "Ali so mape in dokumentacija čiste in niso strgane?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-26",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "Ali dokumenti niso popravljeni na roko, razen dokumentov za vodenje evidenc?",
+        "factor":  0.02777,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-27",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "*Ali je na stroju je standard samovzdrževanja delovne opreme?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-28",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "*Ali so evidence izvajanja samovzdrževanja ustrezno vodene s podpisi?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-29",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "Ali je na stroju Navodilo za varno delo z ustrezno številko stroja?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-30",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "Ali so dokumenti na stroju plastificirani in pripeti s sponko ali v magnetnih mapah in niso prilepljeni na stroju?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-31",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "Ali je na stroju  po potrebi ustrezno obvestilo o zastoju, preizkušanju, nastavljanju?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-32",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DELOVNA DOKUMENTACIJA NA STROJU ALI DELOVNI MIZI",
+        "question":  "Ali na stroju ali delovni mizi ni dokumentov z neprimerno vsebino, ki ne sodi v proizvodnji proces? ",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-33",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA V SPC KABINI",
+        "question":  "Ali je v SPC kabini standard samovzdrževanja urejenosti?",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "doc-34",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA V SPC KABINI",
+        "question":  "Ali je SPC kabina urejena po predpisanemu standardu samovzdrževanja urejenosti?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-35",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA V SPC KABINI",
+        "question":  "Ali so mape in dokumentacija čiste in niso strgane?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-36",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA V SPC KABINI",
+        "question":  "Ali je v SPC kabini shema SPC kabine s poudarjenimi mesti čiščenja?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-37",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA V SPC KABINI",
+        "question":  "Ali je seznam aktivnosti 5S uric?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "doc-38",
+        "section":  "doc",
+        "sectionTitle":  "Dokumentacija",
+        "category":  "DOKUMENTACIJA V SPC KABINI",
+        "question":  "Ali so evidence izvajanja čiščenja ustrezno vodene s podpisi?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-3",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "STANDARD SAMOVZDRŽEVANJA  UREJENOSTI DELOVNIH MEST",
+        "question":  "Ali je standard samovzdrževanja urejenosti (OBR. 198707) definiran za vsa DM?",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-4",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "STANDARD SAMOVZDRŽEVANJA  UREJENOSTI DELOVNIH MEST",
+        "question":  "Ali so vsa DM urejena po standardu samovzdrževanja urejenosti?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-5",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "NEPOTREBNE STVARI",
+        "question":  "Ali  v delavnici  ni nepotrebnih ali razmetanih stvari ter opreme?",
+        "factor":  0.0416666,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-6",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "ZIDOVI IN STEKLA",
+        "question":  "Ali ob zidovih in delovni opremi ne slonijo predmeti?",
+        "factor":  0.07,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-7",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "ZIDOVI IN STEKLA",
+        "question":  "Ali so zidovi urejeni in pobarvani?",
+        "factor":  0.0416666,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-8",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "ZIDOVI IN STEKLA",
+        "question":  "Ali v delavnici ni prisotna pajčevina?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-9",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "ZIDOVI IN STEKLA",
+        "question":  "Ali so steklene površine čiste in urejene?",
+        "factor":  0.0416666,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-10",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "ZIDOVI IN STEKLA",
+        "question":  "Ali na okenskih policah ni odloženih stvari?",
+        "factor":  0.0416666,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-11",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "POMOŽNI PROSTORI",
+        "question":  "Ali so pomožni prostori urejeni in čisti?",
+        "factor":  0.03,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-12",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "POMOŽNI PROSTORI",
+        "question":  "Ali v pomožnem prostoru ni prisotna pajčevina?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-13",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "POMOŽNI PROSTORI",
+        "question":  "Ali ob zidovih in delovni opremi ne slonijo predmeti?",
+        "factor":  0.06,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-14",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "POMOŽNI PROSTORI",
+        "question":  "Ali so steklene površine čiste in urejene?",
+        "factor":  0.0416666,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-15",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "POMOŽNI PROSTORI",
+        "question":  "Ali na okenskih policah ni odloženih stvari?",
+        "factor":  0.0416666,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-16",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "INŠTALACIJA",
+        "question":  "Ali so odsesovalni kanali čisti in nepoškodovani?",
+        "factor":  0.04,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-17",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "INŠTALACIJA",
+        "question":  "Ali je ostala inštalacija v proizvodnji urejena (zrak, voda, elektrika)?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-18",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "INŠTALACIJA",
+        "question":  "Ali so spoji in priključki inštalacije  urejeni in spojeni z objemko ali sivim trakom?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-19",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "OPREMA",
+        "question":  "Ali je splošna oprema čista in nepoškodovana?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-20",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "OPREMA",
+        "question":  "Ali v delavnici niso stvari improvizirane z raznimi lepilnimi trakovi?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-21",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "GARDEROBA",
+        "question":  "Ali so omare za garderobo urejene?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-22",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "GARDEROBA",
+        "question":  "Ali delovne obleke, čevlji in druge osebne stvari niso prisotne na delovnih mestih?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-23",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "TLA",
+        "question":  "*Ali so tla suha in čista? Ali na tleh ni razlitih tekočin (olje, voda,..) in prisotnih smeti?",
+        "factor":  0.08,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-24",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "TLA",
+        "question":  "Ali ni v talnih kanalih umazanije, izdelkov oz. drugih nepotrebnih smeti?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-25",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "TLA",
+        "question":  "Ali tla niso poškodovana?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-26",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "TLA",
+        "question":  "Ali na tleh ne ležijo izdelki?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-27",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "OSNOVNA SREDSTVA",
+        "question":  "Ali je na osnovnem sredstvu (delovni opremi, ostali opremi,…) nameščena nalepka o osnovnem sredstvu? ",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "clean-28",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "OSNOVNA SREDSTVA",
+        "question":  "Ali je nalepka osnovnega sredstva čitljiva in ni poškodovana ali umazana?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "clean-29",
+        "section":  "clean",
+        "sectionTitle":  "Splošna urejenost in čistoča",
+        "category":  "OSNOVNA SREDSTVA",
+        "question":  "Ali je osnovno sredstvo pravilno locirano glede na podatke na nalepki oz. SAP-u?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-3",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali je stojalo standardizirano za vse oddelke (enako stojalo v vseh oddelkih)?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "tools-4",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali so čistilni pripomočki urejeni (niso polomljeni) in čisti?",
+        "factor":  0.15,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-5",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali so stojala za čistilne pripomočke čista, brez poškodb in niso umazana?",
+        "factor":  0.3,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-6",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali so na stojalu vsi predpisani pripomočki (preveriti seznam pripomočkov)?",
+        "factor":  0.0375,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-7",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali na stojalu ni odvečnih predmetov?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-8",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali imajo stojala zelen napis?",
+        "factor":  0.0375,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-9",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali čistilni pripomočki ne slonijo ob zidovih ali drugi opremi?",
+        "factor":  0.25,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-10",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali so čistila na stojalu v ustrezni embalaži?",
+        "factor":  0.0375,
+        "scoreable":  false
+    },
+    {
+        "id":  "tools-11",
+        "section":  "tools",
+        "sectionTitle":  "Čistilni pripomočki",
+        "category":  "ČISTILNI PRIPOMOČKI",
+        "question":  "Ali so čistila na stojalu urejena in lično zložena, ter označena z original nazivom čistila?",
+        "factor":  0.0375,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-3",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "5S URICE",
+        "question":  "*Ali so vpeljane 5S urice (čiščenje) za vso delovno opremo?",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "machines-4",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "ČISTOČA STROJEV IN VILIČARJEV",
+        "question":  "*Ali so zunanje površine strojev čiste?",
+        "factor":  0.18,
+        "scoreable":  true
+    },
+    {
+        "id":  "machines-5",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "ČISTOČA STROJEV IN VILIČARJEV",
+        "question":  "*Ali so notranje površine strojev čiste?",
+        "factor":  0.12,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-6",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "ČISTOČA STROJEV IN VILIČARJEV",
+        "question":  "*Ali so viličarji čisti in niso obdrsani, ter nepoškodovani (niso počeni plastični deli)?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-7",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "ČISTOČA STROJEV IN VILIČARJEV",
+        "question":  "Ali na delovni opremi ni ostankov lepila?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-8",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "ČISTOČA STROJEV IN VILIČARJEV",
+        "question":  "*Ali delovna oprema ni poškodovana?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-9",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "ČISTOČA STROJEV IN VILIČARJEV",
+        "question":  "*So filtri na delovni opremi očiščeni?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-10",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "ČISTOČA STROJEV IN VILIČARJEV",
+        "question":  "Ali so delovni pripomočki obešeni in niso razmetani po delovni opremi?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-11",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE STROJEV",
+        "question":  "*Ali je inštalacija strojev  urejena in ni poškodovana?",
+        "factor":  0.07,
+        "scoreable":  true
+    },
+    {
+        "id":  "machines-12",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE STROJEV",
+        "question":  "*Ali so maziva, ki jih zahteva standard samovzdrževanja, ustrezno označena in v ustrezni embalaži? ",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-13",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE STROJEV",
+        "question":  "*Ali je operater na delovni opremi izobražen glede izvajanja samovzdrževanja in ga zna ustrezno pokazati?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-14",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE STROJEV",
+        "question":  "*Ali so na delovni opremi urejene komponente za nadzor parametrov in delovanja linij (manometri, signalni semaforji, drugi prikazovalniki)? Omenjene komponenti niso v okvari?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-15",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE STROJEV",
+        "question":  "*Ali so elektro, stikalne omarice na delovni opremi urejene in niso poškodovane?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-16",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE STROJEV",
+        "question":  "*Ali na delovni opremi ni improvizacij (polepljeni kartoni, razni lepilni trakovi, ki niso v skladu z barvo delovne opreme?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-17",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "*Ali je tabla z dokumenti za samovzdrževanje viličarjev prisotna na mestu polnjenja?",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "machines-18",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "*Ali je viličarist na delovni opremi izobražen glede izvajanja samovzdrževanja in ga zna ustrezno pokazati?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-19",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "SAMOVZDRŽEVANJE VILIČARJEV",
+        "question":  "*Ali je inštalacija polnilne postaje viličarja urejena in ni poškodovana?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-20",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "TIPKE, STIKALA, EKRANI",
+        "question":  "Ali so glavna stikala označena z napisom GLAVNO STIKALO in niso poškodovana?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "machines-21",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "TIPKE, STIKALA, EKRANI",
+        "question":  "Ali so tipke  za upravljanje urejene, označene in niso poškodovane?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "machines-22",
+        "section":  "machines",
+        "sectionTitle":  "Stroji in viličarji",
+        "category":  "TIPKE, STIKALA, EKRANI",
+        "question":  "Ali so displayi na delovni opremi čisti in niso poškodovani?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-3",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "PRAVILNA OZNAČENOST",
+        "question":  "Ali so vsa odlagalna mesta pravilno označena?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "storage-4",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "PRAVILNA OZNAČENOST",
+        "question":  "Ali so vsa odlagalna mesta označena?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-5",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "PRAVILNA OZNAČENOST",
+        "question":  "Ali velikost odlagalnih mest ustreza potrebam?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-6",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "BARVE ODLAGALNIH MEST",
+        "question":  "Ali je zaporna cona označena z rdečo in zaklenjena z rdečimi vrati?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "storage-7",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "BARVE ODLAGALNIH MEST",
+        "question":  "Ali so odlagalna mesta za material označena z rumeno barvo*?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-8",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "BARVE ODLAGALNIH MEST",
+        "question":  "Ali je ekološka cona označena z zeleno barvo?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-9",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "BARVE ODLAGALNIH MEST",
+        "question":  "Ali so vsa stojala za metle označena z zeleno barvo?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-10",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "BARVE ODLAGALNIH MEST",
+        "question":  "Ali so odlagalna mesta za orodja, garderobo in pripomočke označeni modro?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-11",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "BARVE ODLAGALNIH MEST",
+        "question":  "Ali so izdelki in pogojni materiali označeni rumeno?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-12",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "OBRABLJENOST ODLAGALNIH MEST",
+        "question":  "Ali niso oznake ali barve odlagalnih mest poškodovane ali obrabljene?",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "storage-13",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "TRANSPORTNE POTI",
+        "question":  "Ali so transportne poti označene, kjer vozi viličar?",
+        "factor":  0.03,
+        "scoreable":  true
+    },
+    {
+        "id":  "storage-14",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "TRANSPORTNE POTI",
+        "question":  "Ali niso oznake transportnih poti poškodovane ali obrabljene?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-15",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "POSTAVITEV",
+        "question":  "Ali so vse stvari v proizvodnji postavljene na označena odlagalna mesta?",
+        "factor":  0.04,
+        "scoreable":  true
+    },
+    {
+        "id":  "storage-16",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "STATUS IZDELKOV",
+        "question":  "Ali imajo materiali v proizvodnji status?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "storage-17",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "STATUS IZDELKOV",
+        "question":  "Ali so dokumenti, ki določajo status, čitljivi in niso zamazani?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-18",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "STATUS IZDELKOV",
+        "question":  "Ali so medfazne zaloge označene in urejene?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-19",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "ORODJA",
+        "question":  "Ali ima vsako orodje status (označeno) in je lično zloženo ?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "storage-20",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "ORODJA",
+        "question":  "Ali so vsa ogrodja označena z zelenimi ali rdečimi listki (pregledano-nepregledano)?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-21",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "ORODJA",
+        "question":  "Ali so odpisana orodja  v zaporni coni za orodja?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "storage-22",
+        "section":  "storage",
+        "sectionTitle":  "Odlagalna mesta",
+        "category":  "DELOVNA OPREMA",
+        "question":  "Ali so linije ustrezno označene?",
+        "factor":  0.01,
+        "scoreable":  true
+    },
+    {
+        "id":  "equipment-3",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "UREJENOST - ZUNANJOST/NOTRANJOST",
+        "question":  "Ali so delovne mize urejene? (preverimo zunanjo in notranjo urejenost)",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "equipment-4",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "UREJENOST - ZUNANJOST/NOTRANJOST",
+        "question":  "Ali so omare za orodja urejene? (preverimo zunanjo in notranjo urejenost)",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-5",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "UREJENOST - ZUNANJOST/NOTRANJOST",
+        "question":  "Ali so vozički za orodje urejeni? (preverimo zunanjo in notranjo urejenost)",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-6",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "POLEPLJENOST/POŠKODBE",
+        "question":  "Ali niso delovne mize polepljene ali poškodovane?",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "equipment-7",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "POLEPLJENOST/POŠKODBE",
+        "question":  "Ali niso omare za orodja polepljene ali poškodovane?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-8",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "POLEPLJENOST/POŠKODBE",
+        "question":  "Ali niso vozički polepljeni ali poškodovani?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-9",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "ORODJA NA MIZI",
+        "question":  "Ali so na mizi samo urejeni pripomočki za trenutno prenastavljanje linije?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "equipment-10",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "ORODJA NA MIZI",
+        "question":  "Ali so orodja na mizi označena?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-11",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "PREDALI",
+        "question":  "Ali je v predalih samo vsebina, ki je definirana na standardu (glej standard)?",
+        "factor":  0.04,
+        "scoreable":  true
+    },
+    {
+        "id":  "equipment-12",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "PREDALI",
+        "question":  "Ali v predalih ni revij, hrane ali pijače?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-13",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "PREDALI",
+        "question":  "Ali je v predalih vsebina lično urejena in sortirana?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-14",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "PREDALI",
+        "question":  "Ali je vsa vsebina v predalih urejena v skladu z napisi?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-15",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "STANDARD SAMOVZDRŽEVANJA UREJENOSTI",
+        "question":  "Ali je na omarah, vozičkih predpisan standard z vsebino v omari (ID. 198707)?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "equipment-16",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "STANDARD SAMOVZDRŽEVANJA UREJENOSTI",
+        "question":  "Ali je vsebina v omari urejena po predpisanemu standardu?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "equipment-17",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "REZERVNA ORODJA",
+        "question":  "Ali so orodja in ogrodja lično urejena in shranjena?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "equipment-18",
+        "section":  "equipment",
+        "sectionTitle":  "Orodja in pripomočki",
+        "category":  "REZERVNA ORODJA",
+        "question":  "Ali so orodja in ogrodja čista ter označena?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-3",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "STANDARD SAMOVZDRŽEVANJA UREJENOSTI/ČISTOČA SPC KABINE",
+        "question":  "Ali je standard samovzdrževanja urejenosti SPC kabine definiran?",
+        "factor":  0.04,
+        "scoreable":  true
+    },
+    {
+        "id":  "measurement-4",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "STANDARD SAMOVZDRŽEVANJA UREJENOSTI/ČISTOČA SPC KABINE",
+        "question":  "Ali je SPC kabina urejena po standardu samovzdrževanja urejenosti?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-5",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "STANDARD SAMOVZDRŽEVANJA UREJENOSTI/ČISTOČA SPC KABINE",
+        "question":  "Ali je inštalacija v SPC kabini lično urejena?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-6",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "STANDARD SAMOVZDRŽEVANJA UREJENOSTI/ČISTOČA SPC KABINE",
+        "question":  "Ali je SPC kabina urejena in niso stvari polomljene?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-7",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "STANDARD SAMOVZDRŽEVANJA UREJENOSTI/ČISTOČA SPC KABINE",
+        "question":  "Ali je čistoča v SPC kabini na ustrezni ravni?",
+        "factor":  0.18,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-8",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "MERILA V SPC KABINI",
+        "question":  "Ali so merila v SPC postavljena po standardu samovzdrževanja urejenosti (layout urejenosti)?",
+        "factor":  0.08,
+        "scoreable":  true
+    },
+    {
+        "id":  "measurement-9",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "MERILA V SPC KABINI",
+        "question":  "Ali so merila čista in oznake meril so čitljive?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-10",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "STATUS MERILNIH KOSOV",
+        "question":  "Ali v kabini ni merjencev, razen tistih, ki jih trenutno uporablja merilec?",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "measurement-11",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "OSTALA MERILA V PROIZVODNJI",
+        "question":  "Ali so vsa merila v proizvodnji čista in oznake čitljive?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "measurement-12",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "OSTALA MERILA V PROIZVODNJI",
+        "question":  "Ali so merila shranjena v zaščitni embalaži, če se ne uporabljajo in ne ležijo razmetana po delovnem mestu?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-13",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "NASTAVITVENI KOSI",
+        "question":  "Ali so nastavitveni kosi pokriti in označeni z napisom?",
+        "factor":  0.03,
+        "scoreable":  true
+    },
+    {
+        "id":  "measurement-14",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "NASTAVITVENI KOSI",
+        "question":  "Ali so nastavitveni kosi čisti in niso zanemarjeni?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "measurement-15",
+        "section":  "measurement",
+        "sectionTitle":  "Merilna oprema",
+        "category":  "NASTAVITVENI KOSI",
+        "question":  "Ali so urejeni in označeni glede na postavitev v orodju?",
+        "factor":  0.05,
+        "scoreable":  false
+    },
+    {
+        "id":  "eco-3",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "UREJENOST EKOLOŠKE CONE V PROIZVODNJI",
+        "question":  "Ali je ekološka cona lično urejena (konstrukcija, nepoškodovani zaboji zabojniki, nepoškodovane omare)?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "eco-4",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "UREJENOST EKOLOŠKE CONE V PROIZVODNJI",
+        "question":  "Ali na tleh v ekološki coni ni smeti in umazanije?",
+        "factor":  0.15,
+        "scoreable":  false
+    },
+    {
+        "id":  "eco-5",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "ZABOJNIKI",
+        "question":  "Ali so na zabojih predpisane nalepke z oznako odpadkov?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "eco-6",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "ZABOJNIKI",
+        "question":  "Ali so nalepke na zabojnikih čitljive in niso raztrgane?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "eco-7",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "ZABOJNIKI",
+        "question":  "Ali zabojniki niso poškodovani?",
+        "factor":  0.15,
+        "scoreable":  false
+    },
+    {
+        "id":  "eco-8",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "ZABOJNIKI",
+        "question":  "Ali se odpadki ustrezno ločujejo (prava vsebina v zabojnikih)?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "eco-9",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "LOVILCI",
+        "question":  "Ali so vse nevarne snovi skladiščene na lovilcih? ",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "eco-10",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "EMBALAŽE IN ODPADNE SNOVI",
+        "question":  "Ali so sodi/kontejnerji za odpadne snovi označeni z vsebino?",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "eco-11",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "EMBALAŽE IN ODPADNE SNOVI",
+        "question":  "Ali so vse embalaže nevarnih snovi, ki so hlapljive zaprte, da tekočina ne izhlapeva v okolje?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "eco-12",
+        "section":  "eco",
+        "sectionTitle":  "Ekološka cona",
+        "category":  "EKOLOŠKI ZABOJNIK",
+        "question":  "Ali so ekološki zabojniki ustrezno opremljeni z vsemi predpisanimi pripomočki?",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-3",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "EVAKUACIJSKI NAČRT",
+        "question":  "Ali je v delavnici nameščen evakuacijski načrt na vidnem mestu?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-4",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "EVAKUACIJSKI NAČRT",
+        "question":  "Ali evakuacijski načrt nameščen v delavnici ni v poškodovanih in zanemarjenih mapah?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-5",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "DOSTOPNOST",
+        "question":  "Ali so gasilni aparati, hidranti in omarice prve pomoči ustrezno označene?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-6",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "DOSTOPNOST",
+        "question":  "Ali je gasilska oprema dostopna in nič ne ovira dostopa?",
+        "factor":  0.08,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-7",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "DOSTOPNOST",
+        "question":  "Ali so vse oznake vidne in niso obrabljene?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-8",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "DOSTOPNOST",
+        "question":  "Ali so zasilni izhodi prosti in nič ne ovira izhoda?",
+        "factor":  0.08,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-9",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "PRVA POMOČ",
+        "question":  "Ali je v omaricah prve pomoči prava vsebina znotraj roka uporabe?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-10",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "PRVA POMOČ",
+        "question":  "Ali je na omaricah objavljena lista usposobljenosti?",
+        "factor":  0.01,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-11",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "VARNOST REGALOV",
+        "question":  "Ali so regali nepoškodovani in pritrjeni v tla?",
+        "factor":  0.08,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-12",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "VARNOST REGALOV",
+        "question":  "Ali so regali opremljeni z varnostnimi znaki, obremenitvijo?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-13",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ZAŠČITA",
+        "question":  "Ali so varovala delovne opreme nepoškodovana?",
+        "factor":  0.08,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-14",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ZAŠČITA",
+        "question":  "Ali so varovala med delovanjem opreme v funkciji?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-15",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "OVIRE",
+        "question":  "Ali so vse ovire označene z črno rumenim trakom?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-16",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "OVIRE",
+        "question":  "Ali so vse oznake za ovire vidne in niso obrabljene?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-17",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ZAŠČITNA SREDSTVA",
+        "question":  "Ali vsi zaposleni uporabljajo zaščitne obleke in čevlje?",
+        "factor":  0.04,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-18",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ZAŠČITNA SREDSTVA",
+        "question":  "Ali zaposleni imajo po potrebi glušnike in očala?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-19",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "NEVARNOST PREVRNITVE",
+        "question":  "Ali je vse zloženo tako, da se za transport prepreči padec ali razsutje?",
+        "factor":  0.03,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-20",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "TRANSPORTNE POTI",
+        "question":  "Ali nič ne sega čez črte transportnih ali pešpoti oz. poti niso \nzaložene?",
+        "factor":  0.03,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-21",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "TRANSPORTNE POTI",
+        "question":  "Ali so varnostna ogledala nameščena na nepreglednih mestih in niso poškodovana?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-22",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ERGONOMIJA",
+        "question":  "Ali je prostor ustrezno prezračen, kjer se polnijo viličarji?",
+        "factor":  0.04,
+        "scoreable":  true
+    },
+    {
+        "id":  "safety-23",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ERGONOMIJA",
+        "question":  "Ali so delovne mize v kontroli ergonomsko urejene z oblazinjenem za roke in s podlogo za noge?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-24",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ERGONOMIJA",
+        "question":  "Ali so stoli nastavljivi po višini in z nastavljivim ledvenim delom ?",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-25",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ERGONOMIJA",
+        "question":  "Ali je osvetlitev primerna? ",
+        "factor":  0.03,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-26",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ERGONOMIJA",
+        "question":  "Ali v delavnici ni prisotnega prepiha, ki ogroža zdravje zaposlenih?",
+        "factor":  0.04,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-27",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ERGONOMIJA",
+        "question":  "Ali pozicija sedenja po možnosti ni usmerjena v steno?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "safety-28",
+        "section":  "safety",
+        "sectionTitle":  "Splošna varnost",
+        "category":  "ERGONOMIJA",
+        "question":  "Ali okna niso pozicionirana delavcem v hrbet?",
+        "factor":  0.02,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-3",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "LAYOUT ODGOVORNOSTI",
+        "question":  "Ali je na tabli TPM definiran layout odgovornosti za zunanjo okolico?",
+        "factor":  0.02,
+        "scoreable":  true
+    },
+    {
+        "id":  "outside-4",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "OKOLICA STAVBE",
+        "question":  "Ali v okolici stavbe ni nepotrebnih stvari?",
+        "factor":  0.07,
+        "scoreable":  true
+    },
+    {
+        "id":  "outside-5",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "OKOLICA STAVBE",
+        "question":  "Ali v okolici stavbe ni razmetanih stvari?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-6",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "OKOLICA STAVBE",
+        "question":  "Ali je dostop do kolesarnice urejen in prost?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-7",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "OKOLICA STAVBE",
+        "question":  "Ali je kadilska cona urejena?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-8",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "OKOLICA STAVBE",
+        "question":  "Ali so postavljeni predmeti v okolici stavbe odloženi na označenih mestih?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-9",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "TLA",
+        "question":  "Ali na tleh ni papirčkov, odpadkov, embalaže in \ncigaretnih ogorkov?",
+        "factor":  0.1,
+        "scoreable":  true
+    },
+    {
+        "id":  "outside-10",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "TLA",
+        "question":  "Ali tla nimajo večjih poškodb?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-11",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "EKOLOŠKE CONE V OKOLICI STAVBE",
+        "question":  "Ali je ekološka cona lično urejena (konstrukcija, nepoškodovani zaboji zabojniki, nepoškodovane omare)?",
+        "factor":  0.05,
+        "scoreable":  true
+    },
+    {
+        "id":  "outside-12",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "EKOLOŠKE CONE V OKOLICI STAVBE",
+        "question":  "Ali so kontejnerji ustrezno označeni in zavarovani pred razsutjem?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-13",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "EKOLOŠKE CONE V OKOLICI STAVBE",
+        "question":  "Ali na tleh v ekološki coni ni smeti in umazanije?",
+        "factor":  0.1,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-14",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "INFRASTRUKTURA",
+        "question":  "Ali so zunanje stene stavbe cele in čiste?",
+        "factor":  0.07,
+        "scoreable":  true
+    },
+    {
+        "id":  "outside-15",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "INFRASTRUKTURA",
+        "question":  "Ali so okenske police čiste, nepoškodovane in na njih niso odloženi predmeti?",
+        "factor":  0.07,
+        "scoreable":  false
+    },
+    {
+        "id":  "outside-16",
+        "section":  "outside",
+        "sectionTitle":  "Okolica stavbe",
+        "category":  "INFRASTRUKTURA",
+        "question":  "Ali so ograje, inštalacije in infrastruktura urejene in niso poškodovane?",
+        "factor":  0.07,
+        "scoreable":  false
+    }
+]
